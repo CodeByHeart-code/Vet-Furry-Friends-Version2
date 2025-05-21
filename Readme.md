@@ -1,0 +1,1 @@
+This is an improved version (v2) of Vet-Furry-Friends. In this version, we’ve added new functionalities such as error handling using try and except blocks for better understanding and faster bug fixing. We also included a logging feature that generates a log file to track all user actions within the app, providing better control and administrative oversight.
